@@ -5,8 +5,11 @@ const App = () => {
       <div className="card">
         <div className="top">
           <img src="" alt="" />
-          <button></button>
+          <button>Save</button>
         </div> 
+        <div className="center">
+          
+        </div>
     </div>
     </div>
   )
